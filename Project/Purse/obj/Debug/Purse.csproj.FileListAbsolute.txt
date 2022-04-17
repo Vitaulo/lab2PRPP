@@ -5,3 +5,13 @@ C:\Users\Kvas\Desktop\lab2\asdf\lab2PRPP\Project\Purse\obj\Debug\Purse.csproj.As
 C:\Users\Kvas\Desktop\lab2\asdf\lab2PRPP\Project\Purse\obj\Debug\Purse.csproj.CoreCompileInputs.cache
 C:\Users\Kvas\Desktop\lab2\asdf\lab2PRPP\Project\Purse\obj\Debug\Purse.exe
 C:\Users\Kvas\Desktop\lab2\asdf\lab2PRPP\Project\Purse\obj\Debug\Purse.pdb
+C:\Users\kira9\Desktop\Буття\Edu\ПМ - 4.2 курс\ПРПП\Lab22\lab2PRPP\Project\Purse\bin\Debug\Purse.exe.config
+C:\Users\kira9\Desktop\Буття\Edu\ПМ - 4.2 курс\ПРПП\Lab22\lab2PRPP\Project\Purse\bin\Debug\Purse.exe
+C:\Users\kira9\Desktop\Буття\Edu\ПМ - 4.2 курс\ПРПП\Lab22\lab2PRPP\Project\Purse\bin\Debug\Purse.pdb
+C:\Users\kira9\Desktop\Буття\Edu\ПМ - 4.2 курс\ПРПП\Lab22\lab2PRPP\Project\Purse\bin\Debug\Crypto.dll
+C:\Users\kira9\Desktop\Буття\Edu\ПМ - 4.2 курс\ПРПП\Lab22\lab2PRPP\Project\Purse\bin\Debug\Crypto.pdb
+C:\Users\kira9\Desktop\Буття\Edu\ПМ - 4.2 курс\ПРПП\Lab22\lab2PRPP\Project\Purse\obj\Debug\Purse.csproj.AssemblyReference.cache
+C:\Users\kira9\Desktop\Буття\Edu\ПМ - 4.2 курс\ПРПП\Lab22\lab2PRPP\Project\Purse\obj\Debug\Purse.csproj.CoreCompileInputs.cache
+C:\Users\kira9\Desktop\Буття\Edu\ПМ - 4.2 курс\ПРПП\Lab22\lab2PRPP\Project\Purse\obj\Debug\Purse.csproj.CopyComplete
+C:\Users\kira9\Desktop\Буття\Edu\ПМ - 4.2 курс\ПРПП\Lab22\lab2PRPP\Project\Purse\obj\Debug\Purse.exe
+C:\Users\kira9\Desktop\Буття\Edu\ПМ - 4.2 курс\ПРПП\Lab22\lab2PRPP\Project\Purse\obj\Debug\Purse.pdb
