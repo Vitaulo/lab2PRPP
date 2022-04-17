@@ -1,0 +1,6 @@
+D:\lab2\lab2PRPP\Project\Money\bin\Debug\Money.dll
+D:\lab2\lab2PRPP\Project\Money\bin\Debug\Money.pdb
+D:\lab2\lab2PRPP\Project\Money\obj\Debug\Money.csproj.AssemblyReference.cache
+D:\lab2\lab2PRPP\Project\Money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+D:\lab2\lab2PRPP\Project\Money\obj\Debug\Money.dll
+D:\lab2\lab2PRPP\Project\Money\obj\Debug\Money.pdb
