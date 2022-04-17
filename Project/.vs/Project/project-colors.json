@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bcd71ddf-27d6-421f-aa37-e91c6ddeb2ef": {
+      "ProjectGuid": "bcd71ddf-27d6-421f-aa37-e91c6ddeb2ef",
+      "DisplayName": "Purse",
+      "ColorIndex": 0
+    },
+    "02701fb1-d77d-4e4f-95a4-a568284c602e": {
+      "ProjectGuid": "02701fb1-d77d-4e4f-95a4-a568284c602e",
+      "DisplayName": "CreditCard",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

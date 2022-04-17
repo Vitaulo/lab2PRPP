@@ -1,0 +1,5 @@
+C:\Users\Kvas\Desktop\lab2\lab2PRPP\Project\CreditCard\bin\Debug\CreditCard.dll
+C:\Users\Kvas\Desktop\lab2\lab2PRPP\Project\CreditCard\bin\Debug\CreditCard.pdb
+C:\Users\Kvas\Desktop\lab2\lab2PRPP\Project\CreditCard\obj\Debug\CreditCard.csproj.CoreCompileInputs.cache
+C:\Users\Kvas\Desktop\lab2\lab2PRPP\Project\CreditCard\obj\Debug\CreditCard.dll
+C:\Users\Kvas\Desktop\lab2\lab2PRPP\Project\CreditCard\obj\Debug\CreditCard.pdb
