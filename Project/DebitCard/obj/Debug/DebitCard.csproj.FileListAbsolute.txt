@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\l1\Нова папка\lab2PRPP\Project\DebitCard\bin\Debug\DebitCard.dll
+C:\Users\Natalya\Desktop\l1\Нова папка\lab2PRPP\Project\DebitCard\bin\Debug\DebitCard.pdb
+C:\Users\Natalya\Desktop\l1\Нова папка\lab2PRPP\Project\DebitCard\obj\Debug\DebitCard.csproj.AssemblyReference.cache
+C:\Users\Natalya\Desktop\l1\Нова папка\lab2PRPP\Project\DebitCard\obj\Debug\DebitCard.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\l1\Нова папка\lab2PRPP\Project\DebitCard\obj\Debug\DebitCard.dll
+C:\Users\Natalya\Desktop\l1\Нова папка\lab2PRPP\Project\DebitCard\obj\Debug\DebitCard.pdb

@@ -5,3 +5,13 @@ C:\Users\Kvas\Desktop\lab2\asdf\lab2PRPP\Project\Purse\obj\Debug\Purse.csproj.As
 C:\Users\Kvas\Desktop\lab2\asdf\lab2PRPP\Project\Purse\obj\Debug\Purse.csproj.CoreCompileInputs.cache
 C:\Users\Kvas\Desktop\lab2\asdf\lab2PRPP\Project\Purse\obj\Debug\Purse.exe
 C:\Users\Kvas\Desktop\lab2\asdf\lab2PRPP\Project\Purse\obj\Debug\Purse.pdb
+C:\Users\Natalya\Desktop\l1\Нова папка\lab2PRPP\Project\Purse\bin\Debug\Purse.exe.config
+C:\Users\Natalya\Desktop\l1\Нова папка\lab2PRPP\Project\Purse\bin\Debug\Purse.exe
+C:\Users\Natalya\Desktop\l1\Нова папка\lab2PRPP\Project\Purse\bin\Debug\Purse.pdb
+C:\Users\Natalya\Desktop\l1\Нова папка\lab2PRPP\Project\Purse\bin\Debug\DebitCard.dll
+C:\Users\Natalya\Desktop\l1\Нова папка\lab2PRPP\Project\Purse\bin\Debug\DebitCard.pdb
+C:\Users\Natalya\Desktop\l1\Нова папка\lab2PRPP\Project\Purse\obj\Debug\Purse.csproj.AssemblyReference.cache
+C:\Users\Natalya\Desktop\l1\Нова папка\lab2PRPP\Project\Purse\obj\Debug\Purse.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\l1\Нова папка\lab2PRPP\Project\Purse\obj\Debug\Purse.csproj.CopyComplete
+C:\Users\Natalya\Desktop\l1\Нова папка\lab2PRPP\Project\Purse\obj\Debug\Purse.exe
+C:\Users\Natalya\Desktop\l1\Нова папка\lab2PRPP\Project\Purse\obj\Debug\Purse.pdb
